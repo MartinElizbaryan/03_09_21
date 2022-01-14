@@ -3,3 +3,9 @@ git clone {gihubi repo-i link}
 git status
 
 git add index.html
+
+git add .
+
+git commit -m "Create index file and change readme file"
+
+git push origin main
