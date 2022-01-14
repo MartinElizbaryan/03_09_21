@@ -1,0 +1,5 @@
+git clone {gihubi repo-i link}
+
+git status
+
+git add index.html
